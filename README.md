@@ -23,12 +23,6 @@ Linux | Linux | Linus Torvalds 先生开源的早期 Linux 系统源码（含中
 以及“appledos31”目录包 ​​含重建的源代码相匹配的生产由苹果公司发布了DOS 3.1二进制文件。谢谢，斯科特！
 More information,you can view http://www.computerhistory.org/atchm/apple-ii-dos-source-code/
 
-* ### Microsoft
-目录下包括：Microsoft DOS | Word 1.1a CHM Distribution | 图片
-其中 Microsoft DOS 下包括早期 DOS 源码和编译好的文件
-Word 1.1a CHM Distribution 下这包含源代码，因为它存在于1991年1月10日。这是源代码用于构建Windows 1.1a字，代号为“作品”。
-图片下 包含早期的 DOS 图片
-
 * ### Linux
 目录下包括：linux-0.11中文注释(赵炯) | OldLinux | 书籍
 其中 
@@ -38,3 +32,9 @@ OldLinux 同样来自赵炯先生著作《Linux 内核完全注释》所提供�
 http://www.oldlinux.org/index_cn.html
 ftp:http://www.oldlinux.org/Linux.old/
 书籍 目录下分享我收集到的基本比较好的Linux 系统学习资料
+
+* ### Microsoft
+目录下包括：Microsoft DOS | Word 1.1a CHM Distribution | 图片
+其中 Microsoft DOS 下包括早期 DOS 源码和编译好的文件
+Word 1.1a CHM Distribution 下这包含源代码，因为它存在于1991年1月10日。这是源代码用于构建Windows 1.1a字，代号为“作品”。
+图片下 包含早期的 DOS 图片
