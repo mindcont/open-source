@@ -8,7 +8,7 @@ This folder will be used to share my collection of open source projects
 Apple | 苹果公司开源的早期 Apple II DOS系统源码
 Linux | Linus Torvalds 先生开源的早期 Linux 系统源码（含中文注释）
 Microsoft | 微软公司开源的早期 DOS 系统源码 
-RaspberryPI | 整理的一些有趣树莓派开源项目
+RaspberryPi | 整理的一些有趣树莓派开源项目
 ## 开源代码说明
 用来整理收集开源项目，旨在帮助像我一样希望学习计算机精华与灵魂的东西，阅读这些伟大作品的早期源码
 无疑是一份极好的材料，仅希望对那些苦苦搜索早期资料的朋友有一点帮助。
@@ -38,7 +38,8 @@ More information,you can view http://www.computerhistory.org/atchm/apple-ii-dos-
 Word 1.1a CHM Distribution 下这包含源代码，因为它存在于1991年1月10日。这是源代码用于构建Windows 1.1a字，代号为“作品”。
 图片下 包含早期的 DOS 图片。
 
-* ### RaspberryPI
-文件夹 | 说明 | 作者 |
------|--------|--------|
-An Open source dog robot | 基于3D打印的开源大狗 | HuskyRobo
+* ### RaspberryPi
+分享我所收集的有趣的树莓派项目，欢迎大家fork和push ( /) V (\ ) 嘻嘻~
+文件夹 | 说明 | 作者 | 开源地址 |
+-----|--------|--------|--------|
+Big Dog | 基于3D打印的开源大狗 | HuskyRobo|![http://www.instructables.com/id/Fenrir-an-Open-Source-Dog-Robot/](http://www.instructables.com/id/Fenrir-an-Open-Source-Dog-Robot/)
