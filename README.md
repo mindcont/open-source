@@ -39,8 +39,12 @@ Word 1.1a CHM Distribution 下这包含源代码，因为它存在于1991年1月
 图片下 包含早期的 DOS 图片。
 
 * ### RaspberryPi
-分享我所收集的有趣的树莓派项目，欢迎大家fork和push ( /) V (\ ) 嘻嘻~
+分享我所收集的有趣树莓派项目，欢迎大家fork和push ( /) V (\ ) 嘻嘻~
 
 文件夹 | 说明 | 作者 | 开源地址 |
 ----|----|----|-----|
 Big Dog | 基于3D打印的开源大狗 | HuskyRobo| http://www.instructables.com/id/Fenrir-an-Open-Source-Dog-Robot/
+
+
+## 致谢
+在此，感谢所有致力于开放源代码并为之努力的朋友们！
