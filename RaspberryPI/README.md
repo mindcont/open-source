@@ -5,7 +5,7 @@
 Big Dog | 基于3D打印的开源大狗 | HuskyRobo| http://www.instructables.com/id/Fenrir-an-Open-Source-Dog-Robot/
 
 #### 1、Big Dog
-一个利用3D打印机和树莓派制作的开源大狗机器人。
+一个利用3D打印机和树莓派制作的开源大狗机器人
 博客地址：http://www.instructables.com/id/Fenrir-an-Open-Source-Dog-Robot/
 源码地址：https://github.com/HackHusky/Fenrir
 效果图：
