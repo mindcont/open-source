@@ -8,8 +8,9 @@ This folder will be used to share my collection of open source projects
 Apple | 苹果公司开源的早期 Apple II DOS系统源码
 Linux | Linus Torvalds 先生开源的早期 Linux 系统源码（含中文注释）
 Microsoft | 微软公司开源的早期 DOS 系统源码 
-RaspberryPi | 整理的一些有趣树莓派开源项目
 Kinect v1 | 适用于微软公司Kinect v1硬件的开源驱动和工具
+RaspberryPi | 整理的一些有趣树莓派开源项目
+
 
 ## 开源代码说明
 用来整理收集开源项目，旨在帮助像我一样希望学习计算机精华与灵魂的东西，阅读这些伟大作品的早期源码
@@ -41,15 +42,7 @@ Word 1.1a CHM Distribution 下这包含源代码，因为它存在于1991年1月
 图片下 包含早期的 DOS 图片。
 
 * ### Kinect v1
-适用于微软公司Kinect v1硬件的开源驱动和工具~  
-
-文件 | 说明 | 作者｜开源地址｜
-----|----|----|-----|
-KinectCommonBridge-1.0.zip | Kinect Common Bridge | Microsoft Open Technologies, Inc | https://github.com/MSOpenTech/KinectCommonBridge |  
-libfreenect-0.5.3.zip | Drivers and libraries | OpenKinect | https://github.com/OpenKinect/libfreenect |  
-SensorKinect-0.93-5.1.2.1.zip | PrimeSensor Modules for OpenNI | avin2 | https://github.com/avin2/SensorKinect |  
-OpenNI-Stable-1.5.7.10.zip | Open Natural Interaction | OpenNI | https://github.com/OpenNI/OpenNI |  
-
+适用于微软公司Kinect v1硬件的开源驱动和工具~
 
 * ### RaspberryPi  
 分享我所收集的有趣树莓派项目，欢迎大家fork和push ( /) V (\ ) 嘻嘻~  
