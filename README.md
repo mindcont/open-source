@@ -41,17 +41,18 @@ Word 1.1a CHM Distribution 下这包含源代码，因为它存在于1991年1月
 图片下 包含早期的 DOS 图片。
 
 * ### Kinect v1
-适用于微软公司Kinect v1硬件的开源驱动和工具~
+适用于微软公司Kinect v1硬件的开源驱动和工具~  
 
 文件 | 说明 | 作者｜开源地址｜
 ----|----|----|-----|
-KinectCommonBridge-1.0.zip | Kinect Common Bridge | Microsoft Open Technologies, Inc｜https://github.com/MSOpenTech/KinectCommonBridge
-libfreenect-0.5.3.zip | Drivers and libraries | OpenKinect | https://github.com/OpenKinect/libfreenect
-SensorKinect-0.93-5.1.2.1.zip | PrimeSensor Modules for OpenNI | avin2 | https://github.com/avin2/SensorKinect
-OpenNI-Stable-1.5.7.10.zip | Open Natural Interaction | OpenNI | https://github.com/OpenNI/OpenNI
+KinectCommonBridge-1.0.zip | Kinect Common Bridge | Microsoft Open Technologies, Inc | https://github.com/MSOpenTech/KinectCommonBridge |  
+libfreenect-0.5.3.zip | Drivers and libraries | OpenKinect | https://github.com/OpenKinect/libfreenect |  
+SensorKinect-0.93-5.1.2.1.zip | PrimeSensor Modules for OpenNI | avin2 | https://github.com/avin2/SensorKinect |  
+OpenNI-Stable-1.5.7.10.zip | Open Natural Interaction | OpenNI | https://github.com/OpenNI/OpenNI |  
 
-* ### RaspberryPi
-分享我所收集的有趣树莓派项目，欢迎大家fork和push ( /) V (\ ) 嘻嘻~
+
+* ### RaspberryPi  
+分享我所收集的有趣树莓派项目，欢迎大家fork和push ( /) V (\ ) 嘻嘻~  
 
 文件夹 | 说明 | 作者 | 开源地址 |
 ----|----|----|-----|
