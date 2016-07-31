@@ -41,6 +41,9 @@ More information,you can view http://www.computerhistory.org/atchm/apple-ii-dos-
 Word 1.1a CHM Distribution 下这包含源代码，因为它存在于1991年1月10日。这是源代码用于构建Windows 1.1a字，代号为“作品”。
 图片下 包含早期的 DOS 图片。
 
+* ### Facebook
+Surround360 is Facebook's open source hardware and software for capturing stereoscopic 3D 360 video for VR. The repo contains hardware designs, as well as software for camera control and rendering.
+
 * ### Kinect v1
 适用于微软公司Kinect v1硬件的开源驱动和工具~
 
