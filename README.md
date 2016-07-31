@@ -5,9 +5,10 @@ This folder will be used to share my collection of open source projects
 ## 开源代码目录
 文件夹 | 说明 |
 -----|--------|
-Apple | 苹果公司开源的早期 Apple II DOS系统源码
-Linux | Linus Torvalds 先生开源的早期 Linux 系统源码（含中文注释）
-Microsoft | 微软公司开源的早期 DOS 系统源码 
+Linux | Linus Torvalds 先生开源的早期 Linux 系统源码（含赵炯先生源码注释）
+Apple II DOS | 苹果公司开源的早期 Apple II DOS系统源码
+Microsoft DOS | 微软公司开源的早期 DOS 系统源码 
+Facebook | Facebook 开源硬件Surround360
 Kinect v1 | 适用于微软公司Kinect v1硬件的开源驱动和工具
 RaspberryPi | 整理的一些有趣树莓派开源项目
 
@@ -27,16 +28,16 @@ http://www.oldlinux.org/index_cn.html
 ftp:http://www.oldlinux.org/Linux.old/
 书籍 目录下分享我收集到的基本比较好的Linux 系统学习资料
 
-* ### Apple
-目录下包括：Apple II DOS | 书籍 |图片
+* ### Apple II DOS
+目录下包括：Apple II DOS | Books |Pictures
 其中 Apple II DOS 下 斯科特LaBombard 重建
 斯科特LaBombard，专用的老式电脑收藏家/恢复在纽约，已经做了了不起的工作，研究和重建的Apple II DOS源代码。
 在归档中的“shepdos”目录代表了我们从保罗·劳顿得到了扫描的上市工作，
 以及“appledos31”目录包 ​​含重建的源代码相匹配的生产由苹果公司发布了DOS 3.1二进制文件。谢谢，斯科特！
 More information,you can view http://www.computerhistory.org/atchm/apple-ii-dos-source-code/
 
-* ### Microsoft
-目录下包括：Microsoft DOS | Word 1.1a CHM Distribution | 图片
+* ### Microsoft DOS
+目录下包括：Projects| Word 1.1a CHM Distribution | Pictures
 其中 Microsoft DOS 下包括早期 DOS 源码和编译好的文件
 Word 1.1a CHM Distribution 下这包含源代码，因为它存在于1991年1月10日。这是源代码用于构建Windows 1.1a字，代号为“作品”。
 图片下 包含早期的 DOS 图片。
