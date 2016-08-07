@@ -9,7 +9,7 @@ Linux | Linus Torvalds 先生开源的早期 Linux 系统源码（含赵炯先�
 Apple II DOS | 苹果公司开源的早期 Apple II DOS系统源码
 Microsoft DOS | 微软公司开源的早期 DOS 系统源码 
 Facebook | Facebook 开源硬件Surround360
-Kinect v1 | 适用于微软公司Kinect v1硬件的开源驱动和工具
+Kinect | 适用于微软公司Kinect 硬件的开源驱动和工具
 RaspberryPi | 整理的一些有趣树莓派开源项目
 
 
@@ -44,9 +44,6 @@ Word 1.1a CHM Distribution 下这包含源代码，因为它存在于1991年1月
 
 * ### Facebook
 Surround360 is Facebook's open source hardware and software for capturing stereoscopic 3D 360 video for VR. The repo contains hardware designs, as well as software for camera control and rendering.
-
-* ### Kinect v1
-适用于微软公司Kinect v1硬件的开源驱动和工具~
 
 * ### RaspberryPi  
 分享我所收集的有趣树莓派项目，欢迎大家fork和push ( /) V (\ ) 嘻嘻~  
