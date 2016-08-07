@@ -1,5 +1,6 @@
 ## Kinect v1
 适用于微软公司Kinect v1硬件的开源驱动和工具  
+![](https://images-na.ssl-images-amazon.com/images/G/01/electronics/detail-page/kinectwindows-1lg.jpg)
 
 文件 | 说明 |作者 | 开源地址 |
 ----|----|----|----|
